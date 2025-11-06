@@ -8,6 +8,6 @@ int main() {
     cout << "today is a good day"
 
     string s = "abc";
-    
+    string m = "michelle"
     return 0;
 }
